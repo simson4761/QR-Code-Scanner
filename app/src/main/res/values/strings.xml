@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QR code scanner</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="textview">TextView</string>
+    <string name="sample_qr_code">Sample QR code</string>
+    <string name="generate">Generate</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="action_button">Action Button</string>
+</resources>
